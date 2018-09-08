@@ -2,4 +2,6 @@
 
 Oct 6, 2018  
 
-[Scatter Plot](http://nbviewer.jupyter.org/github/ksnt/pycon_hiro_2018/blob/master/Scatter%20Plot.ipynb)
+[Scatter Plot]()  
+
+[Monte Carlo]()  
