@@ -1,6 +1,6 @@
-# Pycon mini hiroshima 2018: Introduction to Data Science
+# Pycon mini hiroshima 2018: Introduction to Data Science in Python （Visualization ver.）
 
-**presentation by takayuki kaisen**  
+**Speaker: takayuki kaisen**  
 
 Oct 6, 2018  
 
