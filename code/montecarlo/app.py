@@ -8,8 +8,12 @@ import random
 import json
 import math
 import numpy as np
+import os
 
 app = dash.Dash()
+server=app.server
+server.secret_key = os.environ.get('secret_key', 'secret')
+
 
 app.layout = html.Div(children=[
     html.H1(children='Monte Carlo Simulation'),
