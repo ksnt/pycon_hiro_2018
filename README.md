@@ -1,12 +1,18 @@
-# Pycon mini hiroshima 2018
+# Pycon mini hiroshima 2018: Introduction to Data Science
 
-**presentation by ksnt**  
+**presentation by takayuki kaisen**  
 
 Oct 6, 2018  
+
+### Plotly Graphs
 
 [Scatter Plot]()  
 
 [Barplot and Timeseries Plot]()  
 
-(additional)  
-[Monte Carlo]()  
+**additional**  
+[Monte Carlo]() 
+
+### Dash Application
+
+[Monte Carlo Simulation](https://montecalro-dash-app.herokuapp.com/) 
