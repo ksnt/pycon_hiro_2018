@@ -4,6 +4,10 @@
 
 Oct 6, 2018  
 
+### Geographic Data Visualization
+
+[Visualization of Detroit Crimes Data](https://nbviewer.jupyter.org/github/ksnt/Predictor-of-blights-in-Detroit/blob/master/Final_Report_1.1.ipynb)
+
 ### Plotly Graphs
 
 [Scatter Plot]()  
