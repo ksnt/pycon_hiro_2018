@@ -20,7 +20,6 @@ All source code for "Interactive Graph Plot" part are included in /code director
 
 [Barplot and Timeseries Plot](https://nbviewer.jupyter.org/gist/ksnt/eb8ac99dd69ecc5dc5774bf673977ceb)  
 
-**additional**  
 [Monte Carlo Simulation using PySpark (Optional)](https://nbviewer.jupyter.org/gist/ksnt/101a44cc21b0eb990f96dc1d640dbd42) 
 
 ### Dash Application
