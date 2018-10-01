@@ -15,4 +15,4 @@ Oct 6, 2018
 
 ### Dash Application
 
-[Monte Carlo Simulation - Dash app](https://montecalro-dash-app.herokuapp.com/) 
+[Monte Carlo Simulation - Dash app](https://montecarlo-dash-app.herokuapp.com/) 
