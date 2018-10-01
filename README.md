@@ -3,9 +3,11 @@
 **Speaker: takayuki kaisen**  
 
 Oct 6, 2018  
-```
+``` 
+Introduction to Data Science in Python （Visualization ver.）
+
 1. Geographic data analysis  
-2. Interactive data plot  
+2. Interactive graph plot  
 3. Discussion  
 ```
 
