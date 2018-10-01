@@ -3,12 +3,13 @@
 **Speaker: takayuki kaisen**  
 
 Oct 6, 2018  
-
+```
 1. Geographic data analysis  
 2. Interactive data plot  
 3. Discussion  
+```
 
-All source code for "Interactive Graph Plot" part are included in /code directory. You can see all interactive graphs in your local environment using Jupyter Notebook but cannot see those ones on Github. To see and interactive with those graphs, I give you links to nbviewer pages below.  
+All source code for "Interactive Graph Plot" part are included in ```/code``` directory. You can see all interactive graphs in your local environment using Jupyter Notebook but cannot see those ones on Github. To see and interactive with those graphs, I give you links to nbviewer pages below.  
 
 ### Geographic Data Visualization
 
