@@ -2,6 +2,8 @@
 
 **Speaker: takayuki kaisen**  
 
+[Slide](https://www.slideshare.net/secret/monKG4luK6Xq2u)  
+
 Oct 6, 2018  
 ``` 
 Introduction to Data Science in Python （Visualization ver.）
@@ -28,7 +30,3 @@ All source code for "Interactive Graph Plot" part are included in ```/code``` di
 ### Dash Application
 
 [Monte Carlo Simulation - Dash app](https://montecarlo-dash-app.herokuapp.com/) 
-
-### Presentation Material
-
-[Slide](https://www.slideshare.net/secret/monKG4luK6Xq2u)  
