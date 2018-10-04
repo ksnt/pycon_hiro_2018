@@ -2,7 +2,7 @@
 
 **Speaker: takayuki kaisen**  
 
-[Slide](https://www.slideshare.net/secret/monKG4luK6Xq2u)  
+[Slide](https://www.slideshare.net/ksnt/pyconmini-hiroshima-2018-118202503)  
 
 Oct 6, 2018  
 ``` 
