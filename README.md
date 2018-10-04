@@ -28,3 +28,7 @@ All source code for "Interactive Graph Plot" part are included in ```/code``` di
 ### Dash Application
 
 [Monte Carlo Simulation - Dash app](https://montecarlo-dash-app.herokuapp.com/) 
+
+### Presentation Material
+
+[Slide](https://www.slideshare.net/secret/monKG4luK6Xq2u)  
