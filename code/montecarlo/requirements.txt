@@ -120,7 +120,7 @@ pycparser==2.18
 pycrypto==2.6.1
 pydruid==0.4.3
 pygeohash==1.2.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyNaCl==1.2.0
 pyOpenSSL==17.2.0
 pyparsing==2.2.0
