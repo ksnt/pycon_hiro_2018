@@ -16,7 +16,7 @@ botocore==1.8.36
 branca==0.2.0
 bz2file==0.98
 catboost==0.5.2.1
-celery==4.1.1
+celery==5.2.2
 certifi==2018.1.18
 cffi==1.11.2
 chardet==3.0.4
