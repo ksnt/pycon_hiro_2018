@@ -98,7 +98,7 @@ numpy==1.14.0
 pandas==0.21.1
 pandas-datareader==0.6.0
 pandocfilters==1.4.2
-paramiko==2.4.0
+paramiko==2.10.1
 parsedatetime==2.4
 parso==0.1.1
 pathlib2==2.3.2
