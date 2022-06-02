@@ -59,7 +59,7 @@ geopy==1.14.0
 graphviz==0.8.2
 gunicorn==19.7.1
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 humanize==0.5.1
 idna==2.6
 ipykernel==4.8.2
